@@ -1,0 +1,9 @@
+{
+    "username": "Noskcaj",
+    "minecraft_dir": "/home/jack/.minecraft",
+    "mundo_path": "/home/jack/.minecraft/saves",
+    "mundo_nome": "world",
+    "remote": "gdrive:MinecraftMundo",
+    "webhook_url": "https://discord.com/api/webhooks/1519798919570264104/gQjqr9sMSaRhpnWsyUcYnqamGBsHSA2PY8o2K3TNFidUJnIO2ISODdbwEZyhG0GA4XFD",
+    "regex": ""
+}
